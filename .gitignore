@@ -1,0 +1,17 @@
+# Terraform
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+**/.terraform.tfstate.lock.info
+
+# Terraform variable files
+**/*.tfvars
+**/*.tfvars.json
+
+# Terraform crash logs
+**/crash.log
+**/crash.*.log
+
+# Editor temporary files
+**/*.swp
+**/*.swo
