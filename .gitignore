@@ -1,17 +1,20 @@
-# Terraform
+# Terraform generated files
 **/.terraform/
 **/*.tfstate
 **/*.tfstate.*
-**/.terraform.tfstate.lock.info
-
-# Terraform variable files
 **/*.tfvars
 **/*.tfvars.json
 
-# Terraform crash logs
-**/crash.log
-**/crash.*.log
+# Root-level old/temporary files
+/.terraform.lock.hcl
+/.terraform.tfstate.lock.info
+/.terraform.tfstate.swp
+/automate.txt
+/main.tf
+/new.txt
+/provider.tf
+/terrafoem.tf
 
-# Editor temporary files
+# Editor files
 **/*.swp
 **/*.swo
